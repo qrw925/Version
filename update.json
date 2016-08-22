@@ -1,29 +1,29 @@
 {
-	"VersionCodeEx":1,
+	"VersionCodeEx":2,
 	"Date":"20160822",
 	"VersionName":["Gyroor","Welldone","NoLogo"],
 	"Version":
 	[		
 		{
 			"Name":"Gyroor",
-			"SoftwareName":"BalanceCar_Welldone.apk",
-			"Url":"https://raw.githubusercontent.com/feicien/android-auto-update/develop/extras/android-auto-update-v1.1.apk",
+			"SoftwareName":"BalanceCar_Gyroor.apk",
+			"Url":"https://github.com/qrw925/Version/raw/b4834fd14a629ff7cab63847dd3f8b48b9907eb7/BalanceCar_Gyroor.apk",
 			"VersionCode":2,
-			"UpdateMessage":"1. 新增XX功能;<br/>2. 修复了Bug;<br/>3. 优化了性能。"
+			"UpdateMessage":"1.第一版本;<br/>2.增加 升级功能;<br/>3.优化了性能。"
 		},
 		{
 			"Name":"Welldone",
 			"SoftwareName":"BalanceCar_Welldone.apk",
-			"Url":"https://raw.githubusercontent.com/feicien/android-auto-update/develop/extras/android-auto-update-v1.1.apk",
+			"Url":"https://github.com/qrw925/Version/raw/b4834fd14a629ff7cab63847dd3f8b48b9907eb7/BalanceCar_Welldone.apk",
 			"VersionCode":2,
-			"UpdateMessage":"1. 新增XX功能;<br/>2. 修复了Bug;<br/>3. 优化了性能。"
+			"UpdateMessage":"1.第一版本;<br/>2.增加 升级功能;<br/>3.优化了性能。"
 		},
 		{
 			"Name":"NoLogo",
 			"SoftwareName":"BalanceCar_NoLogo.apk",
-			"Url":"https://raw.githubusercontent.com/feicien/android-auto-update/develop/extras/android-auto-update-v1.1.apk",
+			"Url":"https://github.com/qrw925/Version/raw/b4834fd14a629ff7cab63847dd3f8b48b9907eb7/BalanceCar_NoLogo.apk",
 			"VersionCode":2,
-			"UpdateMessage":"1. 新增XX功能;<br/>2. 修复了Bug;<br/>3. 优化了性能。"
+			"UpdateMessage":"1.第一版本;<br/>2.增加 升级功能;<br/>3.优化了性能。"
 		}											
 	]
 }
